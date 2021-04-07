@@ -1,13 +1,15 @@
 package me.wony.refactoring;
 
-/**
- * Hello world!
- *
- */
-public class App 
+
+import me.wony.refactoring.calculator.Calculator;
+
+import static me.wony.refactoring.calculator.Calculator.gugudan;
+
+public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        gugudan(4);
+        gugudan();
     }
 }
