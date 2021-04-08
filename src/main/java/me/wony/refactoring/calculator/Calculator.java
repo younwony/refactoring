@@ -1,7 +1,11 @@
 package me.wony.refactoring.calculator;
 
 /**
- * 구구단
+ * # 구구단
+ * 
+ * # 기능
+ * 1. gugudan() - 구구단 전부 출력 (1 ~ 9단)
+ * 2. gugudan(int number) - 구구단 number 단만 출력
  *
  */
 public class Calculator {
