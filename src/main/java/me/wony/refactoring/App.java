@@ -9,7 +9,5 @@ public class App
 {
     public static void main( String[] args )
     {
-        gugudan(4);
-        gugudan();
     }
 }
